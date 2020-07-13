@@ -1,0 +1,11 @@
+C:\Users\holiday\source\repos\programming101\programming101\bin\Debug\netcoreapp3.1\programming101.exe
+C:\Users\holiday\source\repos\programming101\programming101\bin\Debug\netcoreapp3.1\programming101.deps.json
+C:\Users\holiday\source\repos\programming101\programming101\bin\Debug\netcoreapp3.1\programming101.runtimeconfig.json
+C:\Users\holiday\source\repos\programming101\programming101\bin\Debug\netcoreapp3.1\programming101.runtimeconfig.dev.json
+C:\Users\holiday\source\repos\programming101\programming101\bin\Debug\netcoreapp3.1\programming101.dll
+C:\Users\holiday\source\repos\programming101\programming101\bin\Debug\netcoreapp3.1\programming101.pdb
+C:\Users\holiday\source\repos\programming101\programming101\obj\Debug\netcoreapp3.1\programming101.csprojAssemblyReference.cache
+C:\Users\holiday\source\repos\programming101\programming101\obj\Debug\netcoreapp3.1\programming101.AssemblyInfoInputs.cache
+C:\Users\holiday\source\repos\programming101\programming101\obj\Debug\netcoreapp3.1\programming101.AssemblyInfo.cs
+C:\Users\holiday\source\repos\programming101\programming101\obj\Debug\netcoreapp3.1\programming101.dll
+C:\Users\holiday\source\repos\programming101\programming101\obj\Debug\netcoreapp3.1\programming101.pdb
